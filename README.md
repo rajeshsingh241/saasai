@@ -7,6 +7,8 @@
 https://github.com/user-attachments/assets/24619db7-4db8-4081-bea9-0c41799c3d2b
 
 ---
+## 🚀 Live Demo
+👉 [Click here to try the live app](https://saasai-mutli-modal-l7wf8k0q5-rajeshs-projects-d4731235.vercel.app/)
 
 An advanced **AI-powered multi-model SaaS platform** that brings together multiple AI models (ChatGPT, Claude, Gemini, etc.) into a single chat experience.  
 Built with **Next.js, Shadcn UI, Clerk, Arcjet, and Firebase**, this app combines performance, security, and intelligent automation — all in one place.
